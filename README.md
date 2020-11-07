@@ -2,7 +2,9 @@
 
 # Manual Confirmation of Death
 
-# Personal Information
+## How to Submit?
+
+### Personal Information
 First Name
 Last Name
 Day / Month / Year of Birth
@@ -10,7 +12,7 @@ ZipCode (if available)
 State 
 County (if available)
 
-# Proof of Death
+#### Proof of Death
 All of our records were crossed referenced directly from the US Social Security Death Index, so confirming on ancestry.com is a confirmaion we have already done.
 
 What we are looking for is extremely credible information like obituaries with places a person has lived to go one step futher than ancestry.com.  
