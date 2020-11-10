@@ -42,9 +42,9 @@ https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Wayne%20Coun
 
 Wayne County Analsys compiled by @Tron
 
-Fulton County,GA - [need source] - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
+Fulton County,GA - @flbendit88 - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
 
-Henry County, GA - [need source] - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Henry_County_Findings%20(1).pdf
+Henry County, GA - @flbendit88 - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Henry_County_Findings%20(1).pdf
 
 
 ## Deceased Voter Investigations
