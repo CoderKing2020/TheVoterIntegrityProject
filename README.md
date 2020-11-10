@@ -54,4 +54,6 @@ Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityPro
 
 ## Statistical Irregularities
 
-Fulton County,GA - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
+Fulton County,GA - [need source] - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
+
+Henry County, GA - [need source - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Henry_County_Findings%20(1).pdf
