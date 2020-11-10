@@ -42,3 +42,6 @@ https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Wayne%20Coun
 
 Wayne County Analsys compiled by @Tron
 
+## Deceased Voter Investigations
+
+Selma Steel - Wayne County, Michigan 
