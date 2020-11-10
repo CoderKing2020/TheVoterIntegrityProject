@@ -10,6 +10,8 @@ SSN state issuance guidance: https://www.ssa.gov/employer/stateweb.htm
 
 ## Pennsylvania
 
+Voter Registration:  https://www.pavoterservices.pa.gov/Pages/PurchasePAFULLVoterExport.aspx?ID=%20PA_EXPORT_5930068333201104221022
+
 ## Georgia 
 
 Death Index filtered for Georgia issued SSN: https://gofile.io/d/xWFyxu
