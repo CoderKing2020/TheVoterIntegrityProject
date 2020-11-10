@@ -36,10 +36,9 @@ Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
 
 ## Irregularities
 
-Wayne County Voter Role Irregularities 2020:
+Wayne County Voter Role Irregularities 2020 - @Tron -
 https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Wayne%20County%20Voter%20Role%20Irregularities%20-%2011092020.pdf
 
-Wayne County Analsys compiled by @Tron
 
 Fulton County,GA - @flbendit88 - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
 
