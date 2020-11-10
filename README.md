@@ -49,3 +49,5 @@ Selma Steel - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProj
 ## Criminal Activity
 
 Milton Lawrence - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Milton_Kenneth_Lawrence_III_in_MI%20(1).pdf
+
+Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Terry_Mathis_update.pdf
