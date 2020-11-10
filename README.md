@@ -16,6 +16,8 @@ Death Index filtered for Georgia issued SSN: https://gofile.io/d/xWFyxu
 
 ## Michigan
 
+Voter Registration: http://69.64.83.144/~mi/download/20201012/Entire%20State%20October.zip
+
 Death Index filtered for Michigan issued SSN: https://gofile.io/d/Q0CuI4
 
 ## Wisconsin
