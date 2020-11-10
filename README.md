@@ -47,7 +47,7 @@ Henry County, GA - @flbendit88 - https://github.com/CoderKing2020/TheVoterIntegr
 
 ## Deceased Voter Investigations
 
-Selma Steel - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Steel%20the%20Votes%20in%20Michigan.pdf
+Selma Steel - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Steel_the_Votes_in_Michigan.pdf
 
 ## Suspected Criminal Activity
 
