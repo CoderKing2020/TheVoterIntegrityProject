@@ -31,3 +31,7 @@ Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
 ## Arizona
 
 ## Nevada
+
+# Releases
+
+Irregularies found in Michigan Voter Registration dates in Wayne County: 
