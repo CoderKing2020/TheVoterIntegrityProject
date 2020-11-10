@@ -4,6 +4,8 @@
 
 United States Social Secutity Death Index (2011): http://ssdmf.info/
 
+SSN state issuance guidance: https://www.ssa.gov/employer/stateweb.htm
+
 ## Pennsylvania
 
 ## Georgia 
