@@ -34,4 +34,4 @@ Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
 
 # Releases
 
-Irregularies found in Michigan Voter Registration dates in Wayne County: 
+Irregularies found in Michigan Voter Registration dates in Wayne County: https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Michigan%20voter%20regirstration%201900%20dates.pdf
