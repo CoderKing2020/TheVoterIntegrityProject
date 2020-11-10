@@ -14,9 +14,11 @@ Death Index filtered for Georgia issued SSN: https://gofile.io/d/xWFyxu
 
 ## Michigan
 
-Death Index filtered For Michigan issued SSN: https://gofile.io/d/Q0CuI4
+Death Index filtered for Michigan issued SSN: https://gofile.io/d/Q0CuI4
 
 ## Wisconsin
+
+Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
 
 ## Arizona
 
