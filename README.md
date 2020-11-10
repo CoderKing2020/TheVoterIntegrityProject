@@ -44,3 +44,4 @@ Wayne County Analsys compiled by @Tron
 
 ## Deceased Voter Investigations
 
+Selma Steel - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Steel%20the%20Votes%20in%20Michigan.pdf
