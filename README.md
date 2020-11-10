@@ -59,8 +59,3 @@ Milton Lawrence - @borracho - https://github.com/CoderKing2020/TheVoterIntegrity
 
 Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Terry_Mathis_update.pdf
 
-## Statistical Irregularities
-
-Fulton County,GA - [need source] - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Fulton_County_Findings%20(1).pdf
-
-Henry County, GA - [need source] - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Henry_County_Findings%20(1).pdf
