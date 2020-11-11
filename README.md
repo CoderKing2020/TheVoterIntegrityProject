@@ -63,7 +63,7 @@ Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityPro
 
 # Consolidated List of Suspicious Voter Activity
 
-Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems
+### Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems
 https://www.youtube.com/watch?v=Ztu5Y5obWPk&feature=emb_title
 
 This was a live stream recorded by MIT PhD Dr. Shiva. He and his collegaues cover a statistical analysis of the difference between Michigan's "straight" ticket voting system, vs the vote per candidate.
