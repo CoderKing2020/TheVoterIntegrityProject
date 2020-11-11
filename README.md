@@ -10,7 +10,10 @@ SSN state issuance guidance: https://www.ssa.gov/employer/stateweb.htm
 
 ## Pennsylvania
 
-Voter Registration:  https://www.pavoterservices.pa.gov/Pages/PurchasePAFULLVoterExport.aspx?ID=%20PA_EXPORT_5930068333201104221022
+Voter Registration (raw):  https://www.pavoterservices.pa.gov/Pages/PurchasePAFULLVoterExport.aspx?ID=%20PA_EXPORT_5930068333201104221022
+
+Voter Registration CSV Formatted and Consolidated: https://gofile.io/d/HYKcMQ
+
 
 Ballot Status Tracker: https://www.pavoterservices.pa.gov/pages/ballottracking.aspx
 
