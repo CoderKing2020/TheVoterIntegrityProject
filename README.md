@@ -106,6 +106,8 @@ This is a good repo outlining what Benfords Law is and some visuals to help illu
 
 # Dominion
 
+Sitemap:  https://archive.is/Onzdn
+
 User Manuals:
 https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite511/documentation/DominionDS511ConditionsOfUse.pdf
 https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite511/documentation/UG-ICC-UserGuide-5-11-CO.pdf
