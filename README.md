@@ -89,3 +89,9 @@ A snapshot analysis: https://media.thedonald.win/post/MbrZNNYN.png
 https://archive.vn/gCPSG
 
 This link is an archived page from The Gaurdian where they argue that Benford's Law is used to prove fraud in the Russian Election. This type of fraud detection has been used in the 2020 election to identify fraud in certain precincts in swing sates.
+
+### Benford's Law
+
+https://github.com/RocksGarnett/2020_benfords
+
+This is a good repo outlining what Benfords Law is and some visuals to help illustrate how and where Joe Biden violates that law.
