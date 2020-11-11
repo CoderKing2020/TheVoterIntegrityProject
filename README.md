@@ -57,3 +57,17 @@ Milton Lawrence - @borracho - https://github.com/CoderKing2020/TheVoterIntegrity
 
 Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityProject/blob/main/Terry_Mathis_update.pdf
 
+
+
+
+
+# Consolidated List of Suspicious Voter Activity
+
+Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems
+https://www.youtube.com/watch?v=Ztu5Y5obWPk&feature=emb_title
+
+This was a live stream recorded by MIT PhD Dr. Shiva. He and his collegaues cover a statistical analysis of the difference between Michigan's "straight" ticket voting system, vs the vote per candidate.
+
+Their findings show that there is a large descrepency between the number of voters that voted "straight reuplican" and voted for Donald J Trump. They actually showed that the more conservative the precinct, the suspciousness increases. It also shows that Trump was doing better in democractic precinct that he was in strong republican districts.
+
+
