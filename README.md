@@ -75,4 +75,8 @@ This was a live stream recorded by MIT PhD Dr. Shiva. He and his collegaues cove
 
 Their findings show that there is a large descrepency between the number of voters that voted "straight reuplican" and voted for Donald J Trump. They actually showed that the more conservative the precinct, the suspciousness increases. It also shows that Trump was doing better in democractic precinct that he was in strong republican districts.
 
+### Benford's Law in Russian Elections
 
+https://archive.vn/gCPSG
+
+This link is an archived page from The Gaurdian where they argue that Benford's Law is used to prove fraud in the Russian Election. This type of fraud detection has been used in the 2020 election to identify fraud in certain precincts in swing sates.
