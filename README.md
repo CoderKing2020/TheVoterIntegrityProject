@@ -26,6 +26,8 @@ Ballot Status Check: https://mvic.sos.state.mi.us/Voter/Index
 
 Death Index filtered for Michigan issued SSN: https://gofile.io/d/Q0CuI4
 
+Ballot Instruction Manuals: https://web.archive.org/web/20201111042026/https://www.michigan.gov/sos/0,4670,7-127-1633_11976_60889---,00.html
+
 ## Wisconsin
 
 Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
