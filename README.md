@@ -39,7 +39,8 @@ Death Index filtered for Wisconsin issued SSN: https://gofile.io/d/gt2h7x
 Wisconsin Voter Registation Data (Raw): https://gofile.io/d/XwcWGo
 
 Wisconsin Voter Regisrtation Data CSV: https://gofile.io/d/YWpBrk 
-(zip file remove .zzz and expand) https://gofile.io/d/VfbOIA
+
+Voter Reg zip file remove .zzz and expand, zipped version of CSV: https://gofile.io/d/VfbOIA
 
 ## Arizona
 
