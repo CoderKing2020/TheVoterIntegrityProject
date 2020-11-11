@@ -62,7 +62,11 @@ Terry Mathis - @borracho - https://github.com/CoderKing2020/TheVoterIntegrityPro
 
 
 # Consolidated List of Suspicious Voter Activity
-None of the assets provided under this list were created or primarily contributed by The Voter Integriy Project. We have the desire to provide a consolidated list of resources that are compelling evidence of voter fraud. Everything on this list is considered real, verifiable, and compelling evidence of fraud found during the 2020 Presidential Election. I will share as much sources and citations as possible when including work in the lists below.
+None of the assets provided under this list were created or primarily contributed by The Voter Integriy Project.
+
+We have the desire to provide a consolidated list of resources that are compelling evidence of voter fraud. Everything on this list is considered real, verifiable, and compelling evidence of fraud found during the 2020 Presidential Election.
+
+I will share as much sources and citations as possible when including work in the lists below.
 
 ### Dr.SHIVA LIVE: MIT PhD Analysis of Michigan Votes Reveals Unfortunate Truth of U.S. Voting Systems
 https://www.youtube.com/watch?v=Ztu5Y5obWPk&feature=emb_title
