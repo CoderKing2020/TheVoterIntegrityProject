@@ -75,6 +75,8 @@ This was a live stream recorded by MIT PhD Dr. Shiva. He and his collegaues cove
 
 Their findings show that there is a large descrepency between the number of voters that voted "straight reuplican" and voted for Donald J Trump. They actually showed that the more conservative the precinct, the suspciousness increases. It also shows that Trump was doing better in democractic precinct that he was in strong republican districts.
 
+A snapshot analysis: https://media.thedonald.win/post/MbrZNNYN.png
+
 ### Benford's Law in Russian Elections
 
 https://archive.vn/gCPSG
