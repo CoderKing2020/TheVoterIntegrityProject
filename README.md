@@ -21,6 +21,12 @@ Ballot Status Tracker: https://www.pavoterservices.pa.gov/pages/ballottracking.a
 
 Death Index filtered for Georgia issued SSN: https://gofile.io/d/xWFyxu
 
+Absentee Ballot Data: https://elections.sos.ga.gov/Elections/voterabsenteefile.do
+
+Absentee Ballot Information:
+https://georgia.gov/how-do-i-vote-absentee-ballot
+https://sos.ga.gov/admin/files/Absentee_Voting_A_Guide_for_Registered_Voters_2020.pdf
+
 ## Michigan
 
 Voter Registration: http://69.64.83.144/~mi/download/20201012/Entire%20State%20October.zip
