@@ -23,9 +23,9 @@ Death Index filtered for Georgia issued SSN: https://gofile.io/d/xWFyxu
 
 Absentee Ballot Data: https://elections.sos.ga.gov/Elections/voterabsenteefile.do
 
-Absentee Ballot Information:
-https://georgia.gov/how-do-i-vote-absentee-ballot
-https://sos.ga.gov/admin/files/Absentee_Voting_A_Guide_for_Registered_Voters_2020.pdf
+Absentee Ballot Information: https://georgia.gov/how-do-i-vote-absentee-ballot
+
+Absentee Ballot Information: https://sos.ga.gov/admin/files/Absentee_Voting_A_Guide_for_Registered_Voters_2020.pdf
 
 ## Michigan
 
