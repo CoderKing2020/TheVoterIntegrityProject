@@ -109,4 +109,4 @@ User Manuals:
 https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite511/documentation/DominionDS511ConditionsOfUse.pdf
 https://www.sos.state.co.us/pubs/elections/VotingSystems/DVS-DemocracySuite511/documentation/UG-ICC-UserGuide-5-11-CO.pdf
 
-
+Patents: https://patents.google.com/patent/US9202113B2/en?inventor=Eric+Coomer
