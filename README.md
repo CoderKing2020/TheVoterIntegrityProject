@@ -52,6 +52,22 @@ Voter Reg zip file remove .zzz and expand, zipped version of CSV: https://gofile
 
 ## Nevada
 
+## Delaware
+
+Voter Registration List: http://69.64.83.144/~de
+
+## Rhode Island
+
+Voter Registration List: 	http://69.64.83.144/~ri
+
+## More Lists
+More States: http://69.64.83.144/~dnsbypass/
+
+## Obiturary Data
+
+http://69.64.83.144/~memorial
+
+
 # Releases
 
 ## Irregularities
