@@ -67,11 +67,17 @@ More States: http://69.64.83.144/~dnsbypass/
 
 ## Obituaries
 Full GA legacy.com obits dump: https://gofile.io/d/VwsRYy
+
 200K Michigan obits 2018-2020 with proper quoting: https://gofile.io/d/EkRCMD
+
 CSV of 12K Nevada obits for 2018-2020 scraped from legacy.com: https://gofile.io/d/gxN1ih
+
 CSV of 60K+ Wisconsin obits from 2018-2020 sourced from legacy.com: https://gofile.io/d/os8gDi
+
 146K Pennsylvania obits from legacy.com: https://gofile.io/d/nxlM25
+
 Delaware obits (legacy.com). 20K, 2018-2020: https://gofile.io/d/FhKsf3
+
 New Jerysey obits (legacy.com) 137K, 2018-2020: https://gofile.io/d/gY4TBU
 
 # Releases
