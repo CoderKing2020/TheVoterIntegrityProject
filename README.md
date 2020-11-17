@@ -66,6 +66,8 @@ More States: http://69.64.83.144/~dnsbypass/
 # 3rd Party Data
 
 ## Obituaries
+Thank you @kal!
+
 Full GA legacy.com obits dump: https://gofile.io/d/VwsRYy
 
 200K Michigan obits 2018-2020 with proper quoting: https://gofile.io/d/EkRCMD
