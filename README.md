@@ -63,11 +63,6 @@ Voter Registration List: 	http://69.64.83.144/~ri
 ## More Lists
 More States: http://69.64.83.144/~dnsbypass/
 
-## Obiturary Data
-
-http://69.64.83.144/~memorial
-
-
 # Releases
 
 ## Irregularities
