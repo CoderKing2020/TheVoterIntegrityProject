@@ -50,6 +50,8 @@ Voter Reg zip file remove .zzz and expand, zipped version of CSV: https://gofile
 
 ## Arizona
 
+Clark County: https://elections.clarkcountynv.gov/VoterRequests/EVMB/mbreq20G.zip
+
 ## Nevada
 
 ## Delaware
