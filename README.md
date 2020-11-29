@@ -62,6 +62,8 @@ Absentee Ballots: https://www.clarkcountynv.gov/government/departments/elections
 
 Voter List: https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/voter_list_data_files.php
 
+Archives (11/28/2020): https://tvip-2020.s3-us-west-2.amazonaws.com/data/NV.zip
+
 
 ## Delaware
 
