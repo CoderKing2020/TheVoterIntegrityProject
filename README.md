@@ -73,7 +73,7 @@ Geocoding and Search API: https://developer.here.com/products/geocoding-and-sear
 
 OpenStreetMaps Export: https://www.openstreetmap.org/export
 
-OpenStreetMaps Full Export: https://wiki.openstreetmap.org/wiki/Export
+OpenStreetMaps USA Export: https://download.geofabrik.de/north-america.html
 
 Specialty Email Databases: http://usbizdata.com/us-business-specialty-databases.php
 
