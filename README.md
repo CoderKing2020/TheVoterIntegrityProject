@@ -73,6 +73,8 @@ Geocoding and Search API: https://developer.here.com/products/geocoding-and-sear
 
 OpenStreetMaps Export: https://www.openstreetmap.org/export
 
+Specialty Email Databases: http://usbizdata.com/us-business-specialty-databases.php
+
 ## People
 
 People Data Labs: https://www.peopledatalabs.com/signup
