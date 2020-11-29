@@ -65,6 +65,16 @@ More States: http://69.64.83.144/~dnsbypass/
 
 # 3rd Party Data
 
+## Addresses
+
+Melissa Property Data: https://www.melissa.com/developer/property-data
+
+Geocoding and Search API: https://developer.here.com/products/geocoding-and-search
+
+## People
+
+People Data Labs: https://www.peopledatalabs.com/signup
+
 ## Obituaries
 Thank you @kal!
 
