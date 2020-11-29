@@ -71,9 +71,18 @@ Melissa Property Data: https://www.melissa.com/developer/property-data
 
 Geocoding and Search API: https://developer.here.com/products/geocoding-and-search
 
+OpenStreetMaps Export: https://www.openstreetmap.org/export
+
 ## People
 
 People Data Labs: https://www.peopledatalabs.com/signup
+
+## Blacklists
+
+Fast Food Addresses: https://www.kaggle.com/datafiniti/fast-food-restaurants
+
+Restaurant Database: https://leadsdeposit.com/restaurant-database/
+
 
 ## Obituaries
 Thank you @kal!
