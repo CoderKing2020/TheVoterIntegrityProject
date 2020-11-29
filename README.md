@@ -54,6 +54,15 @@ Clark County: https://elections.clarkcountynv.gov/VoterRequests/EVMB/mbreq20G.zi
 
 ## Nevada
 
+2020 General Index: https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/index.php
+
+Early Voting: https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/early_voting_turnout_data.php
+
+Absentee Ballots: https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/mail_absentee_ballot_data.php
+
+Voter List: https://www.clarkcountynv.gov/government/departments/elections/reports_data_maps/voter_list_data_files.php
+
+
 ## Delaware
 
 Voter Registration List (2015): http://69.64.83.144/~de
